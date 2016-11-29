@@ -1,7 +1,12 @@
 {
   "compilerOptions": {
+    "target": "es6",
     "strictNullChecks": true,
     "noImplicitAny": true,
-    "sourceMap": true
+    "sourceMap": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ]
   }
 }
