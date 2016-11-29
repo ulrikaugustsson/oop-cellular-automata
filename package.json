@@ -1,0 +1,29 @@
+{
+  "name": "conway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^17.0.3",
+    "typescript": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulrikaugustsson/conway.git"
+  },
+  "keywords": [
+    "conway",
+    "game",
+    "life"
+  ],
+  "author": "Ulrik Strid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ulrikaugustsson/conway/issues"
+  },
+  "homepage": "https://github.com/ulrikaugustsson/conway#readme"
+}
