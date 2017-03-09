@@ -1,5 +1,5 @@
 {
-  "name": "conway",
+  "name": "oop-cellular-automata",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ulrikaugustsson/conway.git"
+    "url": "git+https://github.com/ulrikaugustsson/oop-cellular-automata.git"
   },
   "keywords": [
     "conway",
@@ -29,7 +29,7 @@
   "author": "Ulrik Strid",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ulrikaugustsson/conway/issues"
+    "url": "https://github.com/ulrikaugustsson/oop-cellular-automata/issues"
   },
-  "homepage": "https://github.com/ulrikaugustsson/conway#readme"
+  "homepage": "https://github.com/ulrikaugustsson/oop-cellular-automata#readme"
 }
